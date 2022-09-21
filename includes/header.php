@@ -56,7 +56,7 @@
                     </div>
                     <div id="mobile_menu_bottom">
                         <div id="mobile_versions">
-                            <a href="http://localhost/rocketleague1/home.php" target="_blank" class="mobile_version">
+                            <a href="http://localhost/rocketleague1/" target="_blank" class="mobile_version">
                                 Version 1
                             </a>
                             <a href="http://localhost/rocketleague2/" target="_blank" class="mobile_version">
@@ -146,14 +146,11 @@
     <div id="header_bottom">
         <div class="center_header">
             <div id="header_versions">
-                <a href="http://localhost/rocketleague1/home.php" target="_blank" class="version">
+                <a href="http://localhost/rocketleague1/" target="_blank" class="version">
                     Version 1
                 </a><!--
                 --><a href="http://localhost/rocketleague2/" target="_blank" class="version">
                     Version 2
-                </a><!--
-                --><a href="http://localhost/rocketleague3/" target="_blank" class="version">
-                    Version 3
                 </a>
             </div>
             <div id="header_parameters">
